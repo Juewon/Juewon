@@ -30,3 +30,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=sqlite&logoColor=black) ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
+![Juewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juewon&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juewon&layout=compact&theme=tokyonight)
+
+
